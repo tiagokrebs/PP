@@ -1,4 +1,4 @@
 PP
 ==
 
-Primeiro Projeto em Flask
+Primeiro Prjeto produzido em Flask
