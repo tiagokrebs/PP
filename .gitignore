@@ -4,3 +4,4 @@ data-test.sqlite
 data-dev.sqlite
 .idea
 migrations
+environ.txt
