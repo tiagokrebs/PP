@@ -1,4 +1,6 @@
 venv
 data.sqlite
+data-test.sqlite
+data-dev.sqlite
 .idea
 migrations
